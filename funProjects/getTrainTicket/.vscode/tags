@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+dtime	../getTrainTicket.py	/^dtime = "2016-09-01"$/;"	kind:variable	line:39
+ends	../getTrainTicket.py	/^ends = "%u897F%u5B89%2CXAY"$/;"	kind:variable	line:37
+getTrainTicket.py	../getTrainTicket.py	1;"	kind:file	line:1
+huoche	../getTrainTicket.py	/^def huoche():$/;"	kind:function	line:65
+initmy_url	../getTrainTicket.py	/^initmy_url = "https:\/\/kyfw.12306.cn\/otn\/index\/initMy12306"$/;"	kind:variable	line:48
+login	../getTrainTicket.py	/^def login():$/;"	kind:function	line:51
+login_url	../getTrainTicket.py	/^login_url = "https:\/\/kyfw.12306.cn\/otn\/login\/init"$/;"	kind:variable	line:47
+order	../getTrainTicket.py	/^order = 0$/;"	kind:variable	line:41
+passenger	../getTrainTicket.py	/^passenger = "杨瑞"$/;"	kind:variable	line:43
+passwd	../getTrainTicket.py	/^passwd = "lovingyou"$/;"	kind:variable	line:34
+starts	../getTrainTicket.py	/^starts = "%u957F%u6C99%2CCSQ" $/;"	kind:variable	line:36
+ticket_url	../getTrainTicket.py	/^ticket_url = "https:\/\/kyfw.12306.cn\/otn\/leftTicket\/init"$/;"	kind:variable	line:46
+usernm	../getTrainTicket.py	/^usernm = "ulric_yr@163.com"$/;"	kind:variable	line:33
